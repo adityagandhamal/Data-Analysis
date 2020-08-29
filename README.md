@@ -2,7 +2,7 @@
 Data Analysis of Electronics Store Sales using Pandas and Matplotlib in Jupyter Notebook.
 
 # About Data
-Data collected consists of monthly sales data of the electronic store in .csv files and stored in the Sales_Data directory.
+Data collected consists of monthly sales data of the electronics store as .csv files in the Sales_Data directory.
 
 # Analysis
 This project uses Pandas and Matplotlib to answer basic sales related questions as follows:
